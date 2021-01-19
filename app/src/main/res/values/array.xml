@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="defaultValue">
+        <item>Choose a Layout</item>
+        <item>Linear Layout</item>
+        <item>Relative layout</item>
+        <item>Frame layout</item>
+        <item>Table layout</item>
+        <item>Relative layout</item>
+        <item>Grid layout</item>
+    </string-array>
+</resources>
